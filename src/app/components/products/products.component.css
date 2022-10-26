@@ -1,0 +1,8 @@
+.btn-nam {
+  position: absolute !important;
+  right: 15px !important;
+  top: 15px;
+}
+.btn-nam button {
+  margin-top: 8px !important;
+}

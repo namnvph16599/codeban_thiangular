@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "11111",
+      "price": 0,
+      "image": "11",
+      "description": "1",
+      "id": 6
+    },
+    {
+      "name": "1",
+      "price": 0,
+      "image": "11",
+      "description": "1",
+      "id": 7
+    },
+    {
+      "name": "1",
+      "price": 0,
+      "image": "ảnh Wave",
+      "description": "Wave new",
+      "id": 8
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "image": "*ngIf=\"succes\"",
+      "description": "*ngIf=\"succes\"",
+      "id": 9
+    },
+    {
+      "name": "Anh Nguyen",
+      "price": 0,
+      "image": "Anh Nguyen",
+      "description": "Anh Nguyen",
+      "id": 10
+    }
+  ]
+}
